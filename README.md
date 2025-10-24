@@ -282,7 +282,7 @@ E19-433M20SC LoRa Module Spi 20 dBm 433 MHz Long Distance Wireless Transceiver R
 
 # DIY ELRS 900MHz Transmitter with power up to 1000mW
 
-![Tanmitters](img/TX_Example.jpg)
+![Transmitter](img/TX_Example.jpg)
 
 The transmitter can be assembled without a board using surface mounting, or the board can be designed using any suitable program, for example, EasyEDA.
 
