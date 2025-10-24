@@ -13,7 +13,7 @@
 - **Working Contract:** CRSF (Betaflight)
 - **Antenna Size:** 315mm x 97mm (There is a 1-3cm error in manual measurement)
 
-![Device](img/device.webp)
+![Devices](img/device.webp)
 
 ---
 
